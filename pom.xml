@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.com.viveres.susy.microservice-zuul-server</groupId>
-	<artifactId>microservice-zuul-server</artifactId>
+	<artifactId>tds-microservice-zuul-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>microservice-zuul-server</name>
+	<name>tds-microservice-zuul-server</name>
 	<description>Microservice Zuul Server</description>
 	<properties>
 		<java.version>11</java.version>
